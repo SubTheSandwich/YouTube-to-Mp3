@@ -1,0 +1,9 @@
+YOU NEED PYTHON 3.6 FOR THIS
+https://www.python.org/ftp/python/3.6.0/python-3.6.0.exe
+
+1. run the IMPORT.bat
+2. run the run.bat file
+3. enter your youtube url
+4. type the name of your mp3 file
+5. done. the file should appear in the "files" subdirectory with your
+specified name
